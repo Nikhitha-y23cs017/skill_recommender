@@ -1,0 +1,49 @@
+﻿skill,platform,resource_name,url,resource_type
+Python,freeCodeCamp,Scientific Computing with Python,https://www.freecodecamp.org/learn/scientific-computing-with-python/,Course
+Python,Coursera,Python for Everybody,https://www.coursera.org/specializations/python,Course
+Python,GeeksforGeeks,Python Tutorial,https://www.geeksforgeeks.org/python/python-language-tutorial/,Tutorial
+Java,GeeksforGeeks,Java Programming Tutorial,https://www.geeksforgeeks.org/java/java/,Tutorial
+Java,Coursera,Java Programming and Software Engineering Fundamentals,https://www.coursera.org/specializations/java-programming,Course
+Java,freeCodeCamp,Java programming articles,https://www.freecodecamp.org/news/tag/java/,Articles
+SQL,Kaggle,Intro to SQL,https://www.kaggle.com/learn/intro-to-sql,Course
+SQL,GeeksforGeeks,SQL Tutorial,https://www.geeksforgeeks.org/sql/sql-tutorial/,Tutorial
+SQL,Coursera,Data analysis courses,https://www.coursera.org/browse/data-science/data-analysis,Course catalog
+HTML,freeCodeCamp,Responsive Web Design,https://www.freecodecamp.org/learn/2022/responsive-web-design/,Course
+CSS,freeCodeCamp,Responsive Web Design,https://www.freecodecamp.org/learn/2022/responsive-web-design/,Course
+JavaScript,freeCodeCamp,JavaScript Algorithms and Data Structures,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/,Course
+JavaScript,GeeksforGeeks,JavaScript Tutorial,https://www.geeksforgeeks.org/javascript/javascript-tutorial/,Tutorial
+Git,Microsoft Learn,Introduction to Git,https://learn.microsoft.com/en-us/training/modules/intro-to-git/,Learning module
+Git,freeCodeCamp,Git and GitHub for Beginners,https://www.freecodecamp.org/news/git-and-github-for-beginners/,Article
+Machine Learning,Kaggle,Intro to Machine Learning,https://www.kaggle.com/learn/intro-to-machine-learning,Course
+Machine Learning,Coursera,Machine Learning Specialization,https://www.coursera.org/specializations/machine-learning-introduction,Course
+Machine Learning,Microsoft Learn,Machine learning learning paths,https://learn.microsoft.com/en-us/training/browse/?terms=machine%20learning,Learning paths
+Deep Learning,Coursera,Deep Learning Specialization,https://www.coursera.org/specializations/deep-learning,Course
+Deep Learning,Kaggle,Kaggle Learn courses,https://www.kaggle.com/learn,Course catalog
+Data Analysis,Kaggle,Pandas,https://www.kaggle.com/learn/pandas,Course
+Data Visualization,Kaggle,Data Visualization,https://www.kaggle.com/learn/data-visualization,Course
+Statistics,Khan Academy,Statistics and Probability,https://www.khanacademy.org/math/statistics-probability,Course
+Cloud Computing,Microsoft Learn,Azure training,https://learn.microsoft.com/en-us/training/azure/,Learning paths
+Cloud Computing,Coursera,Cloud computing courses,https://www.coursera.org/browse/information-technology/cloud-computing,Course catalog
+Cybersecurity,Microsoft Learn,Cybersecurity training,https://learn.microsoft.com/en-us/training/browse/?terms=cybersecurity,Learning paths
+Cybersecurity,freeCodeCamp,Cybersecurity articles,https://www.freecodecamp.org/news/tag/cybersecurity/,Articles
+Networking,Cisco Networking Academy,Networking courses,https://www.netacad.com/,Course catalog
+Linux,Linux Foundation,Linux training,https://training.linuxfoundation.org/,Course catalog
+Docker,Docker,Docker getting started,https://docs.docker.com/get-started/,Documentation
+Kubernetes,Kubernetes,Kubernetes basics,https://kubernetes.io/docs/tutorials/kubernetes-basics/,Tutorial
+React,freeCodeCamp,React tutorials,https://www.freecodecamp.org/news/tag/react/,Articles
+Node.js,Node.js,Introduction to Node.js,https://nodejs.org/en/learn/getting-started/introduction-to-nodejs,Tutorial
+Data Structures and Algorithms,GeeksforGeeks,DSA Tutorial,https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/,Tutorial
+Algorithms,Coursera,Algorithms courses,https://www.coursera.org/browse/computer-science/algorithms,Course catalog
+Computer Networks,GeeksforGeeks,Computer Networks tutorial,https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/,Tutorial
+Operating Systems,GeeksforGeeks,Operating Systems tutorial,https://www.geeksforgeeks.org/operating-systems/operating-systems/,Tutorial
+Database Management,Microsoft Learn,Database training,https://learn.microsoft.com/en-us/training/browse/?terms=database,Learning paths
+Power BI,Microsoft Learn,Power BI learning paths,https://learn.microsoft.com/en-us/training/powerplatform/power-bi/,Learning paths
+Excel,Coursera,Excel Skills for Business,https://www.coursera.org/specializations/excel,Course
+Natural Language Processing,Coursera,Machine learning and NLP courses,https://www.coursera.org/browse/data-science/machine-learning,Course catalog
+Computer Vision,Kaggle,Kaggle Learn courses,https://www.kaggle.com/learn,Course catalog
+Artificial Intelligence,Microsoft Learn,AI learning paths,https://learn.microsoft.com/en-us/training/browse/?terms=artificial%20intelligence,Learning paths
+Generative AI,Microsoft Learn,Generative AI learning paths,https://learn.microsoft.com/en-us/training/browse/?terms=generative%20AI,Learning paths
+AWS,AWS Skill Builder,AWS Skill Builder training,https://skillbuilder.aws/,Course catalog
+Azure,Microsoft Learn,Azure learning paths,https://learn.microsoft.com/en-us/training/azure/,Learning paths
+HTML/CSS,freeCodeCamp,Responsive Web Design,https://www.freecodecamp.org/learn/2022/responsive-web-design/,Course
+Problem Solving,GeeksforGeeks,Programming practice,https://www.geeksforgeeks.org/explore,Practice
